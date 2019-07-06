@@ -1,0 +1,80 @@
+body{
+	background-color:#28912;
+	font-size:20px;
+	font-family: arial;
+}
+
+
+.one{
+	background-color:turquoise;
+	width:1200px;
+	margin:0 auto;
+	padding-left:100px;
+	padding-right: 200px;
+
+	}
+.one .me{
+	float:right;
+}
+.one .me span{
+	color:#fff;
+	font-size:40px;
+	float:right;
+
+
+}
+.one li{
+	font-weight:bold;
+	padding-left:100px;
+}
+.portfolio
+{
+	padding-top: 40px;
+	padding-bottom:  70px;
+	text-align: center;
+}
+.portfolio .container h2{
+	color: #777;
+}
+.portfolio .container p{
+	margin: 20px 70px 40px 50px;
+}
+.portfolio .container .our-work {
+	overflow: hidden;
+}
+
+.portfolio .container .our-work > div{
+	float: left;
+	width: 33.3333333%;
+	margin-bottom: 15px;
+}
+
+.portfolio .container .our-work > div img{
+	width: 92%;
+	margin: 10px;
+	padding: 3px;
+	background-color: #FFF;
+
+}
+.images img{
+	width:30.333%;
+	margin-bottom: 15px;
+		margin: 10px;
+	padding: 3px;
+}
+
+.container h2{
+	color: #777;
+	text-align: center;
+
+}
+.container p{
+	margin: 20px 70px 40px 50px;
+}
+.magazines img{
+	width:30.333%;
+	margin-bottom: 15px;
+	padding:0.2px;
+}
+
+
